@@ -4,7 +4,7 @@
     "category": "distribution",
     "health": 90,
     "speed": 0.06,
-    "displayedSpeed": 8,
+    "displayedSpeed": 8.4,
     "requirements": [
         {"item": "copper", "amount": 2}
     ],
