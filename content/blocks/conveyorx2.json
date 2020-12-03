@@ -1,0 +1,12 @@
+{
+    "type": "Conveyor",
+    "name": "Conveyor X2",
+    "category": "distribution",
+    "health": 90,
+    "speed": 0.06,
+    "displayedSpeed": 8,
+    "requirements": [
+        {"item": "copper", "amount": 2}
+    ],
+    "research": "router"
+}
