@@ -1,0 +1,14 @@
+{
+    "type": "Conveyor",
+    "name": "Titanium Conveyor X2",
+    "category": "distribution",
+    "health": 90,
+    "speed": 0.06,
+    "displayedSpeed": 8,
+    "requirements": [
+        {"item": "copper", "amount": 2},
+        {"item": "lead", "amount": 2},
+        {"item": "titanium", "amount": 2}
+    ],
+    "research": "titanium-conveyor"
+}
