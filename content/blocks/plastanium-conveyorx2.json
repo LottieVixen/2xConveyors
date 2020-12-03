@@ -1,0 +1,14 @@
+{
+    "type": "StackConveyor",
+    "name": "Plastanium Conveyor X2",
+    "category": "distribution",
+    "health": 150,
+    "speed": 0.14,
+    "displayedSpeed": 22,
+    "requirements": [
+        {"item": "plastanium", "amount": 2},
+        {"item": "silicon", "amount": 2},
+        {"item": "graphite", "amount": 2}
+    ],
+    "research": "plastanium-conveyor"
+}
